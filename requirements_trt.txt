@@ -1,4 +1,4 @@
-onnx==1.17.0
+onnx==1.21.0rc1
 onnx_graphsurgeon==0.5.8
 onnx_simplifier==0.4.36
 tensorrt==10.1.0
