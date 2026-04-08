@@ -20,7 +20,7 @@ safetensors==0.7.0
 scikit-image==0.22.0
 starlette==0.48.0
 tqdm==4.67.1
-transformers==4.36.2
+transformers==5.0.0rc3
 uvicorn[standard]
 xformers==0.0.22.post7
 peft==0.10.0
