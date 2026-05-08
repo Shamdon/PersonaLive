@@ -3,7 +3,7 @@ torchvision==0.16.0
 accelerate==1.12.0
 av # if there is a error when you install av, try to use "av" instead of "av==11.0.0"
 decord==0.6.0
-diffusers==0.27.0
+diffusers==0.38.0
 einops==0.8.1
 fastapi==0.117.1
 huggingface-hub==0.25.1
